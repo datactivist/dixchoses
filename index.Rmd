@@ -240,13 +240,17 @@ class: inverse, center, middle
 
 .pull-right[.reduite[[![](https://cfeditions.com/donnees-democratie/ressources/couv_donnees-democratie_grand.jpg)](https://cfeditions.com/donnees-democratie/)]
 
-Source : Les données de la démocratie (2023), de Samuel Goëta
+Source : [Les données de la démocratie](https://cfeditions.com/donnees-democratie/) (2023), de Samuel Goëta
 
 ]
 
 ???
 
-On peut aussi citer la contre-expertise effectuée par l’association 40 millions d’automobilistes sur l’expérimentation d’abaissement de la limitation de vitesse à 80 km/h sur trois tronçons de routes secondaires en France. L’association s’est appuyée sur les données d’accidentologie publiées sur data.gouv.fr par le Ministère de l’Intérieur dans la base Bulletin d’analyse des accidents corporels de la circulation (BAAC). À partir de ces données, elle a comparé l’accidentalité relevé pour la période de l’expérimentation pour laquelle on dispose de données aux années précédentes pour déterminer l’impact de la mesure d’abaissement sur l’accidentalité et la mortalité des tronçons routiers concernés. La contre-expertise a montré que «  la limitation de vitesse n’a en rien permis de réduire la mortalité routière sur ces axes : 2 accidents mortels sont à déplorer sur les 86 kilomètres de l’expérimentation en 2016, soit 5 fois plus que la moyenne nationale qui s’élevait la même année à 0,4 tué pour 86 km de routes. » Ces chiffres ont été repris par la presse pour remettre en cause le rapport qui a fondé une partie de l’argumentaire du gouvernement en faveur de la généralisation de la mesure de la limitation de vitesse.
+base Bulletin d’analyse des accidents corporels de la circulation (BAAC
+
+À partir de ces données, elle a comparé l’accidentalité relevé pour la période de l’expérimentation pour laquelle on dispose de données aux années précédentes pour déterminer l’impact de la mesure d’abaissement sur l’accidentalité et la mortalité des tronçons routiers concernés. La contre-expertise a montré que «  la limitation de vitesse n’a en rien permis de réduire la mortalité routière sur ces axes : 2 accidents mortels sont à déplorer sur les 86 kilomètres de l’expérimentation en 2016, soit 5 fois plus que la moyenne nationale qui s’élevait la même année à 0,4 tué pour 86 km de routes. » 
+
+Ces chiffres ont été repris par la presse pour remettre en cause le rapport qui a fondé une partie de l’argumentaire du gouvernement en faveur de la généralisation de la mesure de la limitation de vitesse.
 
 ---
 class: inverse, center, middle
