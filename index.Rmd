@@ -2,7 +2,7 @@
 title: "Ces dix choses incroyables qui n'existeraient pas sans l'open data"
 subtitle: ""
 author: "Joël Gombin et Clément Mandron, Datactivist"
-date: "13 mars 2023"
+date: "26 juin 2024"
 output:
   SlidesDatactivist::moon_reader:
     css: [default, datactivist, datactivist-fonts]
@@ -12,7 +12,7 @@ output:
       highlightLines: true
       countIncrementalSlides: false
 params:
-  event: Inop's TedX
+  event: École Supérieure du Digital
   slug: dixchoses
 ---
 
